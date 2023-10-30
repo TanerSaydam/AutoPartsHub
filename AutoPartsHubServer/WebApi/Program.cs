@@ -1,4 +1,13 @@
+using DataAccess.Context;
+
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddScoped<ApplicationDbContext>();
+
+builder.Services.AddCors(opt =>
+{
+    opt.AddDefaultPolicy(plc => plc.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin());
+});
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
@@ -11,6 +20,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors();
 
 app.UseHttpsRedirection();
 

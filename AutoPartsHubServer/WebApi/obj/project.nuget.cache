@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "VbYMYBlPvj56/Pg/2v/g9Elgx55dm2R6i1ZbRt/eaHVS13WIQGhMK33cWxaNuEjRKdzktOy8mF3hwt9teNEO5Q==",
+  "dgSpecHash": "ha9+PbPe2+TFrnuqQMPIZ6fArfOsAx+WdMJKI6PeI3Aqr/DjXen087VPUlrm85jkp55A2Rv1nPhI41YlYbntrg==",
   "success": true,
   "projectFilePath": "C:\\Test\\AutoPartsHub\\AutoPartsHubServer\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
@@ -44,6 +44,8 @@
     "C:\\Users\\tugay\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\tugay\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\tugay\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\tugay\\.nuget\\packages\\npgsql\\7.0.6\\npgsql.7.0.6.nupkg.sha512",
+    "C:\\Users\\tugay\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.11\\npgsql.entityframeworkcore.postgresql.7.0.11.nupkg.sha512",
     "C:\\Users\\tugay\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\tugay\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\tugay\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",

@@ -78,3 +78,5 @@ C:\Test\AutoPartsHub\AutoPartsHubServer\WebApi\obj\Debug\net7.0\refint\WebApi.dl
 C:\Test\AutoPartsHub\AutoPartsHubServer\WebApi\obj\Debug\net7.0\WebApi.pdb
 C:\Test\AutoPartsHub\AutoPartsHubServer\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
 C:\Test\AutoPartsHub\AutoPartsHubServer\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+C:\Test\AutoPartsHub\AutoPartsHubServer\WebApi\bin\Debug\net7.0\Npgsql.dll
+C:\Test\AutoPartsHub\AutoPartsHubServer\WebApi\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
